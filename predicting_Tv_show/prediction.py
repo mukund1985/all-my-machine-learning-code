@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # prediction.py
-#Author : saimadhu
+#Author : Mukund Pandey
 #Date: 05-Dec-2014
 #About: Finding which TV show will get more viewers
 
