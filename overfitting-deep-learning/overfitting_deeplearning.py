@@ -1,8 +1,7 @@
 """
 ===============================================
 Objective: 4 different techniques to handle overfitting in deep learning models
-Author: Jaiganesh Nagidi
-Blog: https://dataaspirant.com
+Author: Mukund Pandey
 Date: 2020-08-23
 ===============================================
 """
