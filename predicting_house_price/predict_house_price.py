@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # predict_house_price.py
-#Author : saimadhu
+#Author : Mukund Pandey
 #Date: 05-Dec-2014
 #About: Finding price of house using linear regression
 
