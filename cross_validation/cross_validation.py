@@ -1,8 +1,7 @@
 """
 ===============================================
 Objective: Cross validation implementation
-Author: Anber Arif
-Blog: https://dataaspirant.com
+Author: Mukund Pandey
 Date: 2020-12-03
 ===============================================
 """
