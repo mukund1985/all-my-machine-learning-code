@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # fruit_classifier.py
-# Author : Saimadhu Polamuri
+# Author : Mukund Pandey
 # Date: 18-April-2017
 # About: Fruit classifier with decision tree algorithm
 
