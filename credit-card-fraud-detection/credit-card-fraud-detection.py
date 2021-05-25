@@ -1,8 +1,7 @@
 """
 ===============================================
 Objective: Building credit card fraud detection models with classification algorithms
-Author: Sharmila.Polamuri
-Blog: https://dataaspirant.com
+Author: Mukund Pandey
 Date: 2020-09-21
 ===============================================
 """
