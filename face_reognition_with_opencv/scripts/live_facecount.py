@@ -2,8 +2,7 @@
 """
 ===============================================
 Objective: Face Recognition With OpenCV
-Author: Jaiganesh Nagidi
-Blog: https://dataaspirant.com
+Author: Mukund Pandey
 Date: 2020-10-22
 ===============================================
 """
