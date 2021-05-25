@@ -1,6 +1,6 @@
 # !/usr/bin/env python
 # random_forest.py
-# Author : Saimadhu
+# Author : Mukund Pandey
 # Date: 10-June-2017
 # About: Implementing Random forest classifier to predict the breast cancer.
 
