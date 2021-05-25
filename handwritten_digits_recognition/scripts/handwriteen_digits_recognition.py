@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # handwritten_digits_recognition.py
-# Author : Saimadhu Polamuri
+# Author : Mukund Pandey
 # Date: 03-May-2017
 # About: Handwritten digits recognition with Tensorflow
 
