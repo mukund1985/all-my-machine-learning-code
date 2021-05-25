@@ -1,8 +1,7 @@
 """
 ===============================================
 Objective: Explain how to build the lasso regression with sklearn
-Author: Aparna Moorthi
-Blog: https://dataaspirant.com
+Author: Mukund Pandey
 Date: 2020-11-26
 ===============================================
 """
