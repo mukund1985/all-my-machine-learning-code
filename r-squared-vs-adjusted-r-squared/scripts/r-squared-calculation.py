@@ -2,8 +2,7 @@
 ===============================================
 Objective: R-squared Vs Adjusted R-squared comparision
 Sub Objective: Calculating R-squared
-Author: Saimadhu.Polamuri
-Blog: https://dataaspirant.com
+Author: Mukund Pandey
 Date: 2020-10-14
 ===============================================
 """
