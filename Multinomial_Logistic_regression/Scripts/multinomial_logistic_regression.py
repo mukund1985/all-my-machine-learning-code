@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # multinomial_logistic_regression.py
-# Author : Saimadhu Polamuri
+# Author : Mukund Pandey
 # Date: 05-May-2017
 # About: Multinomial logistic regression model implementation
 
