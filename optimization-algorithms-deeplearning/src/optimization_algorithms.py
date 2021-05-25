@@ -1,8 +1,7 @@
 """
 ===============================================
 Objective: Explain various optimization algorithms in deep learning
-Author: Venkatesh Nagilla
-Blog: https://dataaspirant.com
+Author: Mukund Pandey
 Date: 2020-11-01
 ===============================================
 """
