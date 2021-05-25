@@ -1,8 +1,7 @@
 """
 ===============================================
 Objective: List of 20+ text preprocessing techniques implementation in python
-Author: Sharmila.Polamuri
-Blog: https://dataaspirant.com
+Author: Mukund Pandey
 Date: 2020-09-14
 ===============================================
 """
