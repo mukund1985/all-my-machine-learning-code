@@ -1,8 +1,7 @@
 """
 ===============================================
 Objective: Explain how to build the classification model using the gradient boosting algorithm
-Author: Shaik Sameeruddin
-Blog: https://dataaspirant.com
+Author: Mukund Pandey
 Date: 2020-11-22
 ===============================================
 """
