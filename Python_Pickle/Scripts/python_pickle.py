@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # python_pickle.py
-# Author : Saimadhu
+# Author : Mukund
 # Date: 12-Feb-2017
 # About: Examples on How to pickle the python object
 
