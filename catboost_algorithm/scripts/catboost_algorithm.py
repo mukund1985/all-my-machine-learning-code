@@ -1,8 +1,8 @@
 """
 ===============================================
 Objective: Catboost algorithm implementation
-Author: Samuel Adebayo
-Blog: https://dataaspirant.com
+Author: Mukund Pandey
+
 Date: 2021-01-02
 ===============================================
 """
