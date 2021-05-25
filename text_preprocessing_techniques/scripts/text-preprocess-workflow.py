@@ -1,8 +1,7 @@
 """
 ===============================================
 Objective: Text preprocessing techniques workflow in python
-Author: Sharmila.Polamuri
-Blog: https://dataaspirant.com
+Author: Mukund Pandey
 Date: 2020-09-14
 ===============================================
 """
