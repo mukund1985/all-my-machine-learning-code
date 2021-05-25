@@ -1,8 +1,7 @@
 """
 ===============================================
 Objective: Handling imbalance data
-Author: Jaiganesh Nagidi
-Blog: https://dataaspirant.com
+Author: Mukund Pandey
 Date: 2020-08-09
 ===============================================
 """
