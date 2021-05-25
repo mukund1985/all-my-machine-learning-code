@@ -1,8 +1,7 @@
 """
 ===============================================
 Objective: Building email classifier with spacy
-Author: sharmila.polamuri
-Blog: https://dataaspirant.com
+Author: Mukund Pandey
 Date: 2020-08-05
 ===============================================
 """
