@@ -1,8 +1,7 @@
 """
 ===============================================
 Objective: Linear Regression Assumptions Codes
-Author: Saumya Awasthi
-Blog: https://dataaspirant.com
+Author: Mukund Pandey
 Date: 2020-12-28
 ===============================================
 """
